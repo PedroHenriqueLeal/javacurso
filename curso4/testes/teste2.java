@@ -1,6 +1,6 @@
 package curso4.testes;
 
-public class Teste02 {
+public class teste2 {
     public static void main(String[] args) {
         int calculo;
 
