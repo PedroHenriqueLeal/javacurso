@@ -1,0 +1,23 @@
+package testes.teste01;
+
+public class Teste01 {
+    public static void main(String[] args) {
+        Pessoa p = new Pessoa("Daniel");
+        Estudante e = new Estudante("João");
+        // Estudante e2 = new Estudante();
+
+        // p.setNome("Carla");
+        // System.out.println(p.getNome());
+        // System.out.println(p.getNome("Nome: "));
+
+        // e.setNome("Roberto");
+        // System.out.println("Nome: " + e.getNome());
+        // System.out.println("Nome: " + e2.getNome());
+
+        // System.out.println(p.exibir());
+        // System.out.println(e.exibir());
+        System.out.println(p.toString());
+        System.out.println(e);
+    } 
+    
+}
