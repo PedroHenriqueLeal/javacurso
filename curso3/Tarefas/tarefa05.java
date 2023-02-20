@@ -11,6 +11,8 @@ public class tarefa05 {
     System.out.println("Digite o usuário:");
     nome = teclado.nextLine();
 
+    System.out.println("Olá "+ nome);
+
     System.out.println("Digite a senha:");
     senha = teclado.nextLine();
 
