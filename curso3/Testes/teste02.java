@@ -8,7 +8,8 @@ public class teste02 {
 
         while (contador < 10) {
             System.out.println(contador);
-            contador++;
+            contador++; // contador = contador + 1;
+            //contador += 2; // contador = contador + 2;
         }
 
         System.out.println("FIM");
